@@ -25,7 +25,7 @@ The easiest way to deploy this is directly through the Cloudflare Dashboard. It 
 ### Step 1: Create a Cloudflare Worker
 1. Log in or sign up at [Cloudflare Dashboard](https://dash.cloudflare.com).
 2. On the left sidebar, navigate to **Workers & Pages**.
-![image](image-1.png)
+![image](image.png)
 3. Click the **Create application** button.
 ![image](image-1.png)
 4. Click **Start with Hello World!**.
